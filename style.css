@@ -38,10 +38,10 @@ td {
     border-width: 1px;
 }
 .time{
-    style = 10%;
+    width: 10%;
 }
 .week{
-    style = 15%;
+    width: 15%;
 }
 
 .courseA{
